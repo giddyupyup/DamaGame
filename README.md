@@ -1,5 +1,5 @@
 # DamaGame
-Thesis project
+A Board Game based on the Philippines. Created using JavaFX and JAVA 8 SE.
 
 Filipino Checkers (Pinoy Dama)
 Rules of Play
